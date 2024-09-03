@@ -1,20 +1,25 @@
+<html lang="pt-BR"></html>
 <head>
     <link rel="stylesheet" href="styles.css">
-
-</head>
+    <title>Aluraflix</title>
+    </head>
 
 <body>
-    
+    <header>ALURAFLIX</header>
 
-<header>ALURAFLIX</header>
-
+    <section></section>
+<div></div>
 <h1>CINDERELA FILME COMPLETO</h1>
+</div>
 
-
+<div></div>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zXxEs8CMH2w?si=3Z21l98xPqJn-QQW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>S<html lang="pt-BR">
+</div>
+</section>
 
-    
 </body>
+
+</html>
 
 
 
@@ -23,6 +28,8 @@ CSS:
 body {
     color: white;
     background: rgb(234, 0, 255);
+    margin: 0px;
+    font-family: "Chakra Petch", sans-serif;
+    margin-bottom: 100px;
 }
-
 
